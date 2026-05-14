@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import api from "../api";
+import resumePdf from "../assets/AniketPokale.pdf";
 
 export default function Contact() {
   const [formData, setFormData] = useState({
