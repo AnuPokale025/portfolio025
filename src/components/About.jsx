@@ -25,7 +25,7 @@ export default function About() {
             </h3>
             <p className="text-gray-300 mb-4 leading-relaxed">
               I'm a passionate <strong className="text-white">MERN Stack Developer</strong> with
-              over 3 years of experience building scalable, high-performance web applications.
+              over 1 years of experience building scalable, high-performance web applications.
               I specialize in creating full-stack solutions using MongoDB, Express.js, React, and
               Node.js.
             </p>
@@ -41,19 +41,19 @@ export default function About() {
 
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-gray-800 p-4 rounded-lg">
-                <h4 className="text-3xl font-bold text-blue-400">3+</h4>
+                <h4 className="text-3xl font-bold text-blue-400">1</h4>
                 <p className="text-gray-400">Years Experience</p>
               </div>
               <div className="bg-gray-800 p-4 rounded-lg">
-                <h4 className="text-3xl font-bold text-green-400">50+</h4>
+                <h4 className="text-3xl font-bold text-green-400">3+</h4>
                 <p className="text-gray-400">Projects Completed</p>
               </div>
               <div className="bg-gray-800 p-4 rounded-lg">
-                <h4 className="text-3xl font-bold text-yellow-400">30+</h4>
+                <h4 className="text-3xl font-bold text-yellow-400">2</h4>
                 <p className="text-gray-400">Happy Clients</p>
               </div>
               <div className="bg-gray-800 p-4 rounded-lg">
-                <h4 className="text-3xl font-bold text-purple-400">15+</h4>
+                <h4 className="text-3xl font-bold text-purple-400">10+</h4>
                 <p className="text-gray-400">Technologies</p>
               </div>
             </div>

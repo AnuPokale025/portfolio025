@@ -42,7 +42,7 @@ export default function SkillsExperience() {
       highlights: [
         "Developed e-commerce platform with 10k+ users",
         "Implemented payment gateway integrations",
-        "Built 5+ full-stack applications",
+        "Built full-stack application",
         "Improved application performance by 40%",
         "Mentored junior developers",
       ],
@@ -52,10 +52,9 @@ export default function SkillsExperience() {
       company: "Congnifyz Technologies Pvt. Ltd. Nagpur",
       period: "2025 - 2025",
       description:
-        "Developed and maintained multiple MERN stack applications. Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "Developed and Designed websites on Daily tasks.",
       highlights: [
-        "Developed e-commerce platform with 10k+ users",
-        "Implemented payment gateway integrations",
+       
         "Optimized database queries for better performance",
       ],
     },
@@ -64,10 +63,10 @@ export default function SkillsExperience() {
       company: "S K Bit Software Solutions Pvt. Ltd. Pune",
       period: "2024 - 2025",
       description:
-        "Started career building web applications with React and Node.js. Gained hands-on experience with MongoDB and Express.js in agile environment.",
+        "Started career building web applications with React and Java. Gained hands-on experience with MySQL .",
       highlights: [
-        "Built 8+ client projects",
-        "Learned MERN stack development",
+       
+        "Learned full stack Java development",
         "Contributed to open-source projects",
       ],
     },

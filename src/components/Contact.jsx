@@ -177,7 +177,7 @@ export default function Contact() {
                   </svg>
                 </a>
                 <a
-                  href="linkedin.com/in/aniket-pokale-2a7585230"
+                  href="https://www.linkedin.com/in/aniket-pokale-2a7585230"
                   className="bg-gray-800 hover:bg-blue-600 p-3 rounded-lg transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
